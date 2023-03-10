@@ -1,0 +1,31 @@
+running develop
+Removing /home/iro/ros2_ws/install/my_robot_controlerr/lib/python3.10/site-packages/my-robot-controlerr.egg-link (link to .)
+running egg_info
+writing ../../build/my_robot_controlerr/my_robot_controlerr.egg-info/PKG-INFO
+writing dependency_links to ../../build/my_robot_controlerr/my_robot_controlerr.egg-info/dependency_links.txt
+writing entry points to ../../build/my_robot_controlerr/my_robot_controlerr.egg-info/entry_points.txt
+writing requirements to ../../build/my_robot_controlerr/my_robot_controlerr.egg-info/requires.txt
+writing top-level names to ../../build/my_robot_controlerr/my_robot_controlerr.egg-info/top_level.txt
+reading manifest file '../../build/my_robot_controlerr/my_robot_controlerr.egg-info/SOURCES.txt'
+writing manifest file '../../build/my_robot_controlerr/my_robot_controlerr.egg-info/SOURCES.txt'
+running build
+running build_py
+copying my_robot_controlerr/controller.py -> /home/iro/ros2_ws/build/my_robot_controlerr/build/lib/my_robot_controlerr
+copying my_robot_controlerr/my_first_node.py -> /home/iro/ros2_ws/build/my_robot_controlerr/build/lib/my_robot_controlerr
+running install
+running install_lib
+creating /home/iro/ros2_ws/install/my_robot_controlerr/lib/python3.10/site-packages/my_robot_controlerr
+copying /home/iro/ros2_ws/build/my_robot_controlerr/build/lib/my_robot_controlerr/__init__.py -> /home/iro/ros2_ws/install/my_robot_controlerr/lib/python3.10/site-packages/my_robot_controlerr
+copying /home/iro/ros2_ws/build/my_robot_controlerr/build/lib/my_robot_controlerr/controller.py -> /home/iro/ros2_ws/install/my_robot_controlerr/lib/python3.10/site-packages/my_robot_controlerr
+copying /home/iro/ros2_ws/build/my_robot_controlerr/build/lib/my_robot_controlerr/my_first_node.py -> /home/iro/ros2_ws/install/my_robot_controlerr/lib/python3.10/site-packages/my_robot_controlerr
+byte-compiling /home/iro/ros2_ws/install/my_robot_controlerr/lib/python3.10/site-packages/my_robot_controlerr/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/iro/ros2_ws/install/my_robot_controlerr/lib/python3.10/site-packages/my_robot_controlerr/controller.py to controller.cpython-310.pyc
+byte-compiling /home/iro/ros2_ws/install/my_robot_controlerr/lib/python3.10/site-packages/my_robot_controlerr/my_first_node.py to my_first_node.cpython-310.pyc
+running install_data
+copying package.xml -> /home/iro/ros2_ws/install/my_robot_controlerr/share/my_robot_controlerr
+running install_egg_info
+Copying ../../build/my_robot_controlerr/my_robot_controlerr.egg-info to /home/iro/ros2_ws/install/my_robot_controlerr/lib/python3.10/site-packages/my_robot_controlerr-0.0.0-py3.10.egg-info
+running install_scripts
+Installing controller script to /home/iro/ros2_ws/install/my_robot_controlerr/lib/my_robot_controlerr
+Installing test_node script to /home/iro/ros2_ws/install/my_robot_controlerr/lib/my_robot_controlerr
+writing list of installed files to '/home/iro/ros2_ws/build/my_robot_controlerr/install.log'

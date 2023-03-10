@@ -1,0 +1,4 @@
+[console_scripts]
+controller = my_robot_controlerr.controller:main
+test_node = my_robot_controlerr.my_first_node:main
+

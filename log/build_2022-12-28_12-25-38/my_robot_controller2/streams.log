@@ -1,0 +1,31 @@
+[1.890s] Invoking command in '/home/iro/ros2_ws/build/my_robot_controller2': PYTHONPATH=/home/iro/ros2_ws/build/my_robot_controller2/prefix_override:/home/iro/ros2_ws/install/my_robot_controller2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/iro/ros2_ws/build/my_robot_controller2/build --no-deps install_data
+[2.448s] running develop
+[2.499s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[2.499s]   warnings.warn(
+[2.514s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.514s]   warnings.warn(
+[2.672s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[2.672s]   warnings.warn(
+[2.673s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 0.1.43ubuntu1 is an invalid version and will not be supported in a future release
+[2.673s]   warnings.warn(
+[2.896s] running egg_info
+[2.897s] creating my_robot_controller2.egg-info
+[2.897s] writing my_robot_controller2.egg-info/PKG-INFO
+[2.897s] writing dependency_links to my_robot_controller2.egg-info/dependency_links.txt
+[2.897s] writing entry points to my_robot_controller2.egg-info/entry_points.txt
+[2.897s] writing requirements to my_robot_controller2.egg-info/requires.txt
+[2.898s] writing top-level names to my_robot_controller2.egg-info/top_level.txt
+[2.898s] writing manifest file 'my_robot_controller2.egg-info/SOURCES.txt'
+[2.902s] reading manifest file 'my_robot_controller2.egg-info/SOURCES.txt'
+[2.903s] writing manifest file 'my_robot_controller2.egg-info/SOURCES.txt'
+[2.939s] running build_ext
+[2.940s] Creating /home/iro/ros2_ws/install/my_robot_controller2/lib/python3.10/site-packages/my-robot-controller2.egg-link (link to .)
+[2.946s] 
+[2.947s] Installed /home/iro/ros2_ws/build/my_robot_controller2
+[2.948s] running install_data
+[2.948s] creating /home/iro/ros2_ws/install/my_robot_controller2/share/ament_index
+[2.948s] creating /home/iro/ros2_ws/install/my_robot_controller2/share/ament_index/resource_index
+[2.948s] creating /home/iro/ros2_ws/install/my_robot_controller2/share/ament_index/resource_index/packages
+[2.948s] copying resource/my_robot_controller2 -> /home/iro/ros2_ws/install/my_robot_controller2/share/ament_index/resource_index/packages
+[2.949s] copying package.xml -> /home/iro/ros2_ws/install/my_robot_controller2/share/my_robot_controller2
+[3.013s] Invoked command in '/home/iro/ros2_ws/build/my_robot_controller2' returned '0': PYTHONPATH=/home/iro/ros2_ws/build/my_robot_controller2/prefix_override:/home/iro/ros2_ws/install/my_robot_controller2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/iro/ros2_ws/build/my_robot_controller2/build --no-deps install_data

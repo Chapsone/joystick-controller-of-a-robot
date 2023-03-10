@@ -1,0 +1,19 @@
+running develop
+running egg_info
+writing our_controller.egg-info/PKG-INFO
+writing dependency_links to our_controller.egg-info/dependency_links.txt
+writing entry points to our_controller.egg-info/entry_points.txt
+writing requirements to our_controller.egg-info/requires.txt
+writing top-level names to our_controller.egg-info/top_level.txt
+reading manifest file 'our_controller.egg-info/SOURCES.txt'
+writing manifest file 'our_controller.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/iro/ros2_ws/install/our_controller/lib/python3.10/site-packages/our-controller.egg-link (link to .)
+Installing control script to /home/iro/ros2_ws/install/our_controller/lib/our_controller
+Installing listnerr script to /home/iro/ros2_ws/install/our_controller/lib/our_controller
+Installing mannette script to /home/iro/ros2_ws/install/our_controller/lib/our_controller
+Installing test_node script to /home/iro/ros2_ws/install/our_controller/lib/our_controller
+
+Installed /home/iro/ros2_ws/build/our_controller
+running install_data
+copying package.xml -> /home/iro/ros2_ws/install/our_controller/share/our_controller

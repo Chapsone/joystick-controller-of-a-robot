@@ -1,0 +1,28 @@
+[1.603s] Invoking command in '/home/iro/ros2_ws/build/our_controller': PYTHONPATH=/home/iro/ros2_ws/build/our_controller/prefix_override:/home/iro/ros2_ws/install/our_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/iro/ros2_ws/build/our_controller/build --no-deps install_data
+[2.151s] running develop
+[2.152s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[2.152s]   warnings.warn(
+[2.158s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.158s]   warnings.warn(
+[2.285s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[2.285s]   warnings.warn(
+[2.287s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 0.1.43ubuntu1 is an invalid version and will not be supported in a future release
+[2.287s]   warnings.warn(
+[2.531s] running egg_info
+[2.531s] writing our_controller.egg-info/PKG-INFO
+[2.532s] writing dependency_links to our_controller.egg-info/dependency_links.txt
+[2.532s] writing entry points to our_controller.egg-info/entry_points.txt
+[2.533s] writing requirements to our_controller.egg-info/requires.txt
+[2.533s] writing top-level names to our_controller.egg-info/top_level.txt
+[2.537s] reading manifest file 'our_controller.egg-info/SOURCES.txt'
+[2.539s] writing manifest file 'our_controller.egg-info/SOURCES.txt'
+[2.541s] running build_ext
+[2.542s] Creating /home/iro/ros2_ws/install/our_controller/lib/python3.10/site-packages/our-controller.egg-link (link to .)
+[2.544s] Installing control script to /home/iro/ros2_ws/install/our_controller/lib/our_controller
+[2.544s] Installing listnerr script to /home/iro/ros2_ws/install/our_controller/lib/our_controller
+[2.544s] Installing mannette script to /home/iro/ros2_ws/install/our_controller/lib/our_controller
+[2.544s] Installing test_node script to /home/iro/ros2_ws/install/our_controller/lib/our_controller
+[2.545s] 
+[2.545s] Installed /home/iro/ros2_ws/build/our_controller
+[2.545s] running install_data
+[2.614s] Invoked command in '/home/iro/ros2_ws/build/our_controller' returned '0': PYTHONPATH=/home/iro/ros2_ws/build/our_controller/prefix_override:/home/iro/ros2_ws/install/our_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/iro/ros2_ws/build/our_controller/build --no-deps install_data

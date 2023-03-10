@@ -1,0 +1,38 @@
+[4.550s] Invoking command in '/home/iro/ros2_ws/build/our_controller': PYTHONPATH=/home/iro/ros2_ws/build/our_controller/prefix_override:/home/iro/ros2_ws/install/our_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/iro/ros2_ws/build/our_controller/build
+[5.770s] running develop
+[5.771s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[5.771s]   warnings.warn(
+[5.777s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[5.778s]   warnings.warn(
+[6.121s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[6.122s]   warnings.warn(
+[6.122s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 0.1.43ubuntu1 is an invalid version and will not be supported in a future release
+[6.122s]   warnings.warn(
+[6.837s] Invoked command in '/home/iro/ros2_ws/build/our_controller' returned '0': PYTHONPATH=/home/iro/ros2_ws/build/our_controller/prefix_override:/home/iro/ros2_ws/install/our_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/iro/ros2_ws/build/our_controller/build
+[6.841s] Invoking command in '/home/iro/ros2_ws/src/our_controller': PYTHONPATH=/home/iro/ros2_ws/build/our_controller/prefix_override:/home/iro/ros2_ws/install/our_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/our_controller build --build-base /home/iro/ros2_ws/build/our_controller/build install --record /home/iro/ros2_ws/build/our_controller/install.log --single-version-externally-managed
+[7.845s] running egg_info
+[7.847s] writing ../../build/our_controller/our_controller.egg-info/PKG-INFO
+[7.876s] writing dependency_links to ../../build/our_controller/our_controller.egg-info/dependency_links.txt
+[7.879s] writing entry points to ../../build/our_controller/our_controller.egg-info/entry_points.txt
+[7.882s] writing requirements to ../../build/our_controller/our_controller.egg-info/requires.txt
+[7.884s] writing top-level names to ../../build/our_controller/our_controller.egg-info/top_level.txt
+[7.891s] reading manifest file '../../build/our_controller/our_controller.egg-info/SOURCES.txt'
+[7.910s] writing manifest file '../../build/our_controller/our_controller.egg-info/SOURCES.txt'
+[7.911s] running build
+[7.912s] running build_py
+[7.914s] copying our_controller/essai.py -> /home/iro/ros2_ws/build/our_controller/build/lib/our_controller
+[7.915s] running install
+[7.916s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[7.916s]   warnings.warn(
+[7.918s] running install_lib
+[7.936s] copying /home/iro/ros2_ws/build/our_controller/build/lib/our_controller/essai.py -> /home/iro/ros2_ws/install/our_controller/lib/python3.10/site-packages/our_controller
+[7.939s] byte-compiling /home/iro/ros2_ws/install/our_controller/lib/python3.10/site-packages/our_controller/essai.py to essai.cpython-310.pyc
+[7.942s] running install_data
+[7.945s] running install_egg_info
+[7.957s] removing '/home/iro/ros2_ws/install/our_controller/lib/python3.10/site-packages/our_controller-0.0.0-py3.10.egg-info' (and everything under it)
+[7.965s] Copying ../../build/our_controller/our_controller.egg-info to /home/iro/ros2_ws/install/our_controller/lib/python3.10/site-packages/our_controller-0.0.0-py3.10.egg-info
+[7.996s] running install_scripts
+[8.081s] Installing control script to /home/iro/ros2_ws/install/our_controller/lib/our_controller
+[8.082s] Installing test_node script to /home/iro/ros2_ws/install/our_controller/lib/our_controller
+[8.083s] writing list of installed files to '/home/iro/ros2_ws/build/our_controller/install.log'
+[8.489s] Invoked command in '/home/iro/ros2_ws/src/our_controller' returned '0': PYTHONPATH=/home/iro/ros2_ws/build/our_controller/prefix_override:/home/iro/ros2_ws/install/our_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/our_controller build --build-base /home/iro/ros2_ws/build/our_controller/build install --record /home/iro/ros2_ws/build/our_controller/install.log --single-version-externally-managed

@@ -1,0 +1,6 @@
+[console_scripts]
+control = our_controller.essai:main
+listnerr = our_controller.listenerr:main
+mannette = our_controller.mannette:main
+test_node = our_controller.controller:main
+

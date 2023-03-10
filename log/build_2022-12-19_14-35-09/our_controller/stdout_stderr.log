@@ -1,0 +1,33 @@
+running egg_info
+creating ../../build/our_controller/our_controller.egg-info
+writing ../../build/our_controller/our_controller.egg-info/PKG-INFO
+writing dependency_links to ../../build/our_controller/our_controller.egg-info/dependency_links.txt
+writing entry points to ../../build/our_controller/our_controller.egg-info/entry_points.txt
+writing requirements to ../../build/our_controller/our_controller.egg-info/requires.txt
+writing top-level names to ../../build/our_controller/our_controller.egg-info/top_level.txt
+writing manifest file '../../build/our_controller/our_controller.egg-info/SOURCES.txt'
+reading manifest file '../../build/our_controller/our_controller.egg-info/SOURCES.txt'
+writing manifest file '../../build/our_controller/our_controller.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/iro/ros2_ws/build/our_controller/build
+creating /home/iro/ros2_ws/build/our_controller/build/lib
+creating /home/iro/ros2_ws/build/our_controller/build/lib/our_controller
+copying our_controller/__init__.py -> /home/iro/ros2_ws/build/our_controller/build/lib/our_controller
+/usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running install
+running install_lib
+creating /home/iro/ros2_ws/install/our_controller/lib/python3.10/site-packages/our_controller
+copying /home/iro/ros2_ws/build/our_controller/build/lib/our_controller/__init__.py -> /home/iro/ros2_ws/install/our_controller/lib/python3.10/site-packages/our_controller
+byte-compiling /home/iro/ros2_ws/install/our_controller/lib/python3.10/site-packages/our_controller/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/iro/ros2_ws/install/our_controller/share/ament_index
+creating /home/iro/ros2_ws/install/our_controller/share/ament_index/resource_index
+creating /home/iro/ros2_ws/install/our_controller/share/ament_index/resource_index/packages
+copying resource/our_controller -> /home/iro/ros2_ws/install/our_controller/share/ament_index/resource_index/packages
+copying package.xml -> /home/iro/ros2_ws/install/our_controller/share/our_controller
+running install_egg_info
+Copying ../../build/our_controller/our_controller.egg-info to /home/iro/ros2_ws/install/our_controller/lib/python3.10/site-packages/our_controller-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/iro/ros2_ws/build/our_controller/install.log'

@@ -1,0 +1,6 @@
+source;share/my_robot_controlerr/hook/pythonpath.ps1
+source;share/my_robot_controlerr/hook/pythonpath.dsv
+source;share/my_robot_controlerr/hook/pythonpath.sh
+source;../../build/my_robot_controlerr/share/my_robot_controlerr/hook/pythonpath_develop.ps1
+source;../../build/my_robot_controlerr/share/my_robot_controlerr/hook/pythonpath_develop.dsv
+source;../../build/my_robot_controlerr/share/my_robot_controlerr/hook/pythonpath_develop.sh
